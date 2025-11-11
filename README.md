@@ -43,4 +43,4 @@ Demographic trends affecting employee retention
 **Files Included**
 📄 Dataset 
 📊 PBIX file 
-📁 Dashboard screenshots 
+📁 Dashboard screenshots (https://github.com/anchaljagga21/Data-Analytics-Portfolio/blob/main/HR%20Analytics%20Dashboard.JPG)
